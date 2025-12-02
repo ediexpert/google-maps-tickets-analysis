@@ -1,7 +1,12 @@
 {
   "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "analyze": "node index.js"
+  },
   "dependencies": {
     "dotenv": "^17.2.3",
+    "express": "^4.18.2",
     "nodemailer": "^7.0.11",
     "puppeteer": "^24.31.0",
     "puppeteer-extra": "^3.3.6",
