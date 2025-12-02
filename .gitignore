@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+package-lock.json
+npm-debug.log
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# Build artifacts
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
