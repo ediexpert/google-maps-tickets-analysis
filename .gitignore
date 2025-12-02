@@ -8,6 +8,7 @@ npm-debug.log
 .idea/
 *.iml
 *.iws
+*.env
 
 # Build artifacts
 dist/
